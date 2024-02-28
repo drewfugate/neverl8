@@ -18,7 +18,6 @@ git clone https://github.com/drewfugate/neverl8.git
 
 Navigate to the project directory:
 
-cd src
 
 go run main.go
 
